@@ -15,7 +15,7 @@
 
 .content {
     width: 110vh;
-    height: 60vh;
+    height: 70vh;
     background-color: #fff;
     border-radius: 30px;
     display: flex;
@@ -60,6 +60,7 @@
     margin-top: 5px;
     cursor: pointer;
     color: rgba(0, 0, 0, 0.623);
+    font-size: medium;
 }
 .joke h3:hover {
     color: blueviolet;
